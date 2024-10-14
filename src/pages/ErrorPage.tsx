@@ -12,8 +12,8 @@ const ErrorPage = () => {
         <Heading>Oops...</Heading>
         <Text>
           {isRouteErrorResponse(error)
-            ? "This Page Does Not Exist "
-            : "An unexpected error occurred"}
+            ? "This page does not exsit. "
+            : "An unexpected error occurred."}
         </Text>
       </Box>
     </>
