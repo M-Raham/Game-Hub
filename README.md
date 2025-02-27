@@ -2,8 +2,6 @@
 
 **Game Hub** is a single-page application (SPA) designed to help users discover and explore video games. Built with **React** and **TypeScript**, it leverages the [RAWG Video Games Database API](https://rawg.io/apidocs) to provide comprehensive game information.  
 
-🔗 **Live Demo:** [Game Hub](https://m-raham.github.io/Game-Hub/)  
-
 ---
 
 ## ✨ Features  
